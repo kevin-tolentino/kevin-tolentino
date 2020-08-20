@@ -1,4 +1,5 @@
-# Hello! 👋
+![Banner Image](https://github.com/kevin-tolentino/kevin-tolentino/blob/master/public/images/banner-only.gif "Banner")
+## Hi There! 👋
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin-tolentino&count_private=true&show_icons=true&theme=radical&hide=stars,issues,contribs)](https://github.com/kevin-tolentino)
 - 📚 I’m currently learning: Angular and Ionic for my internship!
 - ⚙️ Current working tech stack: Angular, TypeScript, Ionic, MongoDB, Express, HTML5, SCSS
