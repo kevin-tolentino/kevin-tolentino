@@ -15,7 +15,7 @@ Outside of coding, you'll find me watching a good anime or spending quality time
 ## 📫 Reach Me Here!
 - [LinkedIn](https://www.linkedin.com/in/kevinstolentino/)
 - [Portfolio](https://kevintolentino.com/)
-- [Resume](https://drive.google.com/file/d/1G-HBqJxJQbjO6QhOVKnPt7i3hqIMZJTY/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1rM35Feg0ZoFof97zaFNAKl83zm3vULjP/view?usp=sharing)
 - [Twitter](https://twitter.com/kev__tolentino)
 
 ## 👀 My Articles & Videos About Programming
