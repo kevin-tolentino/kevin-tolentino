@@ -8,7 +8,11 @@
 #### Current Mood: Excited 😃
 
 ## 💬 About Me
-Hi there! 👋 My name is Kevin Tolentino, and I'm an AWS Support Engineer currently working at [VoiceFoundry](https://voicefoundry.com/). I specialize in Call Center integration with Amazon Connect and Salesforce. In the past I was a full stack software engineer interning at [Compassion International](https://www.compassion.com/) and  [Restvo](https://angel.co/company/restvo). I'm passionate about supporting and developing web applications that enable others to foster intentionality.
+Hi there! 👋 My name is Kevin Tolentino, and I'm a software developer at [Compassion International](https://www.compassion.com/) working on Android mobile development 🤖. 
+
+I specialize in React, and currently am learning Kotlin for Mobile Development. In the past I've worked as an AWS Support Engineer at [VoiceFoundry](https://voicefoundry.com/), as well as a full stack software engineer interning at [Compassion International](https://www.compassion.com/) and  [Restvo](https://angel.co/company/restvo). Fun work items I've conducted in the past are Call Center integrations with Amazon Connect and Salesforce.
+
+I'm passionate about supporting and developing web applications that enable others to foster intentionality.
 
 Outside of coding, you'll find me watching a good anime or spending quality time with family and friends. I am your supporter, your helper, and your friend. I look forward to connecting with you!
 
